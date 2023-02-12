@@ -33,7 +33,7 @@ Por último, se presenta la opción para eliminar la mascota. Se solicitará la 
 
 
  ## FIREBASE
-
+Se muestra los datos ingresados por medio de coleccione dentro de nuestro Firebase </br></br></br>
 <p align="center"><img src ="https://user-images.githubusercontent.com/74762981/218299294-c0e6ff43-dcbb-4e4a-85d8-eb634339dc2b.png" width="800"/></p>
 
  ## CODIGO
