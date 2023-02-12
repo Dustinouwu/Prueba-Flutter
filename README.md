@@ -13,8 +13,8 @@ En el presente proyecto se utilizó las herramientas de Flutter y Firebase, con 
 
 
 <p align="center"><img src ="https://user-images.githubusercontent.com/74762981/218298861-9fa9b866-e05c-42aa-9ac0-b300dbf4667e.png" width="400"/></p>
-- Anadir
-- 
+- Verificación de creación de mascotas
+
 <p align="center"><img src ="https://user-images.githubusercontent.com/74762981/218298874-594b70f3-a076-49b1-a173-175586896b59.png" width="400"/></p>
 - Verificación de creación de mascotas
 
