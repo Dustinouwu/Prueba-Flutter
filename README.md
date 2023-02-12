@@ -21,6 +21,6 @@ En el presente proyecto se utilizó las herramientas de Flutter y Firebase, con 
 <p align="center"><img src ="https://user-images.githubusercontent.com/74762981/218298890-bd0ffeea-adb4-411f-938f-02cc970d7624.png" width="400"/></p>
 - Anadir
 - 
-<p align="center"><img src ="user-images.githubusercontent.com/74762981/218298896-6a67234f-5bb3-498c-bffa-684b7814c005.png" width="400"/></p>
+<p align="center"><img src ="https://user-images.githubusercontent.com/74762981/218298896-6a67234f-5bb3-498c-bffa-684b7814c005.png" width="400"/></p>
 
 
