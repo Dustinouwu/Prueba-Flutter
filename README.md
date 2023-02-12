@@ -29,7 +29,7 @@ Por último, se presenta la opción para eliminar la mascota. Se solicitará la 
 
 
 
-<p align="center"><img src ="https://user-images.githubusercontent.com/74762981/218298896-6a67234f-5bb3-498c-bffa-684b7814c005.png" width="400"/></p>
+<p align="center"><img src ="https://user-images.githubusercontent.com/74762981/218298896-6a67234f-5bb3-498c-bffa-684b7814c005.png" width="800"/></p>
 
 
  ## FIREBASE
