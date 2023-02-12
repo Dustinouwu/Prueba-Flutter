@@ -10,6 +10,7 @@ En el presente proyecto se utilizó las herramientas de Flutter y Firebase, con 
 
 ## Contenido: 
 
-<p align="center"><img src ="blob:https://web.whatsapp.com/1ea9395f-3498-4f29-a3b0-efe7a2ff5dfb" width="400"/></p>
+<p align="center"><img src ="![image](https://user-images.githubusercontent.com/74762981/218298807-9ee94c85-afb5-44a9-9ed9-b060375273e9.png)
+" width="400"/></p>
 
 asd
