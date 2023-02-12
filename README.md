@@ -33,7 +33,7 @@ Por último, se presenta la opción para eliminar la mascota. Se solicitará la 
 
 
  ## FIREBASE
-Se muestra los datos ingresados por medio de coleccione dentro de nuestro Firebase </br></br></br>
+
 <p align="center"><img src ="https://user-images.githubusercontent.com/74762981/218299294-c0e6ff43-dcbb-4e4a-85d8-eb634339dc2b.png" width="800"/></p>
 
  ## CODIGO
@@ -50,5 +50,11 @@ Este código crea una columna con un "Text" que muestra el mensaje "Actualizar e
 
  <p align="center"><img src ="https://user-images.githubusercontent.com/74762981/218299631-3880f374-00f7-4f29-b956-36abad4eca34.png" width="600"/></p>
 
+
+- edit_name.dart
+
+Este código es una clase en Flutter que define el estado de una lista de personas o mascotas. Utiliza un FutureBuilder para mostrar una lista de elementos, donde cada elemento es una tarjeta que muestra el nombre y la edad de la mascota. También permite eliminar una mascota mediante el gesto de deslizar hacia la derecha, y permite agregar una mascota nueva presionando el botón flotante "Agregar".
+
+ <p align="center"><img src ="https://user-images.githubusercontent.com/74762981/218299745-814df0ae-81cb-49e8-bd2e-1d9007838823.png" width="600"/></p>
 
 
