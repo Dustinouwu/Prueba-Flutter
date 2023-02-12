@@ -9,7 +9,7 @@
 En el presente proyecto se utilizó las herramientas de Flutter y Firebase, con las que se logra almacenar información proporcionada por los usuarios, en este caso cliente que quiera registrar las mascotas que desee, teniendo las funciones principales de: crear, editar y eliminar las mascotas que se requiera.  
 
 ## Contenido: 
-- Anadir
+- Añadir
 
 
 <p align="center"><img src ="https://user-images.githubusercontent.com/74762981/218298861-9fa9b866-e05c-42aa-9ac0-b300dbf4667e.png" width="400"/></p>
