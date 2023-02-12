@@ -33,15 +33,22 @@ Por último, se presenta la opción para eliminar la mascota. Se solicitará la 
 
 
  ## FIREBASE
-Se muestra los datos ingresados por medio de coleccione dentro de nuestro Firebase
+
 <p align="center"><img src ="https://user-images.githubusercontent.com/74762981/218299294-c0e6ff43-dcbb-4e4a-85d8-eb634339dc2b.png" width="800"/></p>
 
  ## CODIGO
- 
+- Homepage.dart
+
  Este código crea una pantalla "Scaffold" con una "AppBar" que tiene un título centrado con el texto "Gestión de Mascotas" y un fondo de color violeta. Además, agrega un icono de "lista" en la parte derecha de la barra de acción.
 
 
  <p align="center"><img src ="https://user-images.githubusercontent.com/74762981/218299498-d5420d92-ac22-4bb3-bf39-e02bef0b8c83.png" width="600"/></p>
 
- 
+- edit_name.dart
+
+Este código crea una columna con un "Text" que muestra el mensaje "Actualizar el nombre de la mascota". También incluye un "TextField" para que el usuario pueda ingresar un nuevo nombre para la mascota y un "Text" que muestra un ID específico (recibido como argumento). Finalmente, se agrega un botón "ElevatedButton" que, al ser presionado, llama a la función "updatePeople" y pasa el ID y el nombre actualizado como argumentos. Una vez que la función se ha completado exitosamente, se devuelve el usuario a la pantalla anterior
+
+ <p align="center"><img src ="https://user-images.githubusercontent.com/74762981/218299631-3880f374-00f7-4f29-b956-36abad4eca34.png" width="600"/></p>
+
+
 
