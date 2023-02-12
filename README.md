@@ -23,7 +23,7 @@ Así mismo, cuando se desea modificar cualquiera de las mascotas guardadas selec
 
 <p align="center"><img src ="https://user-images.githubusercontent.com/74762981/218298890-bd0ffeea-adb4-411f-938f-02cc970d7624.png" width="400"/></p>
 
-- Eliminar información de mascota
+- Eliminar información de mascota </br>
 
 Por último, se presenta la opción para eliminar la mascota. Se solicitará la confirmación de esta acción  y una vez aceptada, se borrará de la lista de productos.</br></br></br>
 
