@@ -44,6 +44,7 @@ Por último, se presenta la opción para eliminar la mascota. Se solicitará la 
 
  <p align="center"><img src ="https://user-images.githubusercontent.com/74762981/218299498-d5420d92-ac22-4bb3-bf39-e02bef0b8c83.png" width="600"/></p>
 
+
 - edit_name.dart
 
 Este código crea una columna con un "Text" que muestra el mensaje "Actualizar el nombre de la mascota". También incluye un "TextField" para que el usuario pueda ingresar un nuevo nombre para la mascota y un "Text" que muestra un ID específico (recibido como argumento). Finalmente, se agrega un botón "ElevatedButton" que, al ser presionado, llama a la función "updatePeople" y pasa el ID y el nombre actualizado como argumentos. Una vez que la función se ha completado exitosamente, se devuelve el usuario a la pantalla anterior
@@ -51,10 +52,9 @@ Este código crea una columna con un "Text" que muestra el mensaje "Actualizar e
  <p align="center"><img src ="https://user-images.githubusercontent.com/74762981/218299631-3880f374-00f7-4f29-b956-36abad4eca34.png" width="600"/></p>
 
 
-- edit_name.dart
+- list_page.dart
 
 Este código es una clase en Flutter que define el estado de una lista de personas o mascotas. Utiliza un FutureBuilder para mostrar una lista de elementos, donde cada elemento es una tarjeta que muestra el nombre y la edad de la mascota. También permite eliminar una mascota mediante el gesto de deslizar hacia la derecha, y permite agregar una mascota nueva presionando el botón flotante "Agregar".
 
  <p align="center"><img src ="https://user-images.githubusercontent.com/74762981/218299745-814df0ae-81cb-49e8-bd2e-1d9007838823.png" width="600"/></p>
-
 
